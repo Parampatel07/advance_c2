@@ -1,0 +1,5 @@
+Write a programe to create a class to find area of cylinder with outside the class member function
+
+Write a programe to create a class to find area of circle with inside the class member function
+
+Write a programe to findout simple intrest use constructor in it 
