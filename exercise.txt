@@ -3,3 +3,9 @@ Write a programe to create a class to find area of cylinder with outside the cla
 Write a programe to create a class to find area of circle with inside the class member function
 
 Write a programe to findout simple intrest use constructor in it 
+
+03-10-2023
+-----------------------------------------
+Write a programe to findout whether the give shape is square or not (lenght , width )
+
+Write a programe to findout wether the user is eligible for voting or not using default argument constructor (default age= 18)
