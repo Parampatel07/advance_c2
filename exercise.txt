@@ -11,3 +11,5 @@ Write a programe to findout whether the give shape is square or not (lenght , wi
 Write a programe to findout wether the user is eligible for voting or not using default argument constructor (default age= 18)
 
 Write a programe to find area of cylinder and circle create base class cylinder and dervied class circle use radius of cylinder to find area for circle 
+
+Write a programe to findout simple interst using multiple inheritance create class amount , rate , year and inherit all three in one class to find simple intrest 
