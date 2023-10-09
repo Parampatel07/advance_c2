@@ -15,3 +15,5 @@ Write a programe to find area of cylinder and circle create base class cylinder 
 Write a programe to findout simple interst using multiple inheritance create class amount , rate , year and inherit all three in one class to find simple intrest 
 
 Write a programe to findout bmi using multilevel inheritance create seprate class for weight , height and bmi 
+
+Write a programe to findout area of rectangle and area of square using Hierarchical Inheritance
