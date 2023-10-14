@@ -17,3 +17,5 @@ Write a programe to findout simple interst using multiple inheritance create cla
 Write a programe to findout bmi using multilevel inheritance create seprate class for weight , height and bmi 
 
 Write a programe to findout area of rectangle and area of square using Hierarchical Inheritance
+
+Write a programe to findout bmi of user using hybrid inheritance 
