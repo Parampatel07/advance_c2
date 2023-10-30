@@ -24,3 +24,7 @@ Write a programe to print following pattern using inside the class member functi
 0, 1, 3, 6, 10, 15, 21, 28, 36, 45, 55 ... 1000 
 using outside the class 
 1, 5, 12, 22, 35, 51, 70, 92, 117, 145, 176 ... 300
+
+Write a programe to create a convertor with following feature - (Use parameterized constructor)
+->Inch to Meter 
+->Inch to Foot
