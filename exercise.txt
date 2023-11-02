@@ -30,3 +30,5 @@ Write a programe to create a convertor with following feature - (Use parameteriz
 ->Inch to Foot
 
 Write a programe to findout area of retcangle using function overloading
+
+Write a programe to print student name , roll_no and marks create another class which display result
